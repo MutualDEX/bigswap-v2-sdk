@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/MutualDEX/uniswap-v2-sdk.git",
+  "repository": "https://github.com/MutualDEX/bigswap-v2-sdk.git",
   "keywords": [
     "uniswap",
     "ethereum"
